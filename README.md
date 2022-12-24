@@ -1,3 +1,3 @@
-### endless cycle
+### cycles
 
 ![gif](./lisp.gif)
